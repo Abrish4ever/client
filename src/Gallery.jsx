@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
-const API = "http://localhost:5000/api";
-const IMG_BASE = "http://localhost:5000";
+const API = "http://3.144.71.102:5000/api";
+const IMG_BASE = "http://3.144.71.102:5000";
 
 const CATEGORY_COLORS = {
   Technology: "#3b82f6",

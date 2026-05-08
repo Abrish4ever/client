@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 
-const API = "http://localhost:5000/api";
+const API = "http://3.144.71.102:5000/api";
 
 const CATEGORIES = ["Technology", "Design", "Marketing", "Finance", "Operations", "Other"];
 
